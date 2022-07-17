@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HDGif/HDGif.iml" filepath="$PROJECT_DIR$/HDGif/HDGif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HDGifCollections.iml" filepath="$PROJECT_DIR$/HDGifCollections.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.hdgifstudios.view.SquareRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_item">
+        <ProgressBar
+            android:id="@+id/progress_design_item_collections"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:scaleType="fitXY"
+            android:visibility="gone"
+            android:id="@+id/imgviewCollections"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <LinearLayout
+            android:id="@+id/design_item_collections_clickable"
+            android:clickable="true"
+            android:background="@drawable/selector"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" />
+    </com.hdgifstudios.view.SquareRelativeLayout>
+
+</LinearLayout>

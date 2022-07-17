@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Allah GIF Collection NEW</string>
+
+    <string name="find_a_gif">Searh Gif Online</string>
+    <string name="error_downloading_gif">Error downloading GIF</string>
+    <string name="error_downloading_gif_permission">Error downloading GIF. Maybe there is a problem with your internet connection</string>
+    <string name="downloading">Downloading Gif…</string>
+</resources>
